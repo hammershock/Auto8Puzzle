@@ -1,7 +1,8 @@
 # Auto8Puzzle——A*算法的应用实例
 
 pygame编写的8puzzle小游戏
-按s键进入自动求解,(使用A*算法实现)
+
+按`s`键进入自动求解,(使用**A*算法**实现)
 
 ![demo.png](demo.png)
 
